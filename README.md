@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Snoofz!</h1>
-<p>This is my other account in the mean time until github can fix the 2factor auth on my other account.</p>
+<p align="center">This is my other account in the mean time until github can fix the 2factor auth on my other account.</p>
 <h3 align="center">A music artist + programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snoofz&label=Profile%20views&color=0e75b6&style=flat" alt="snoofz" /> </p>
